@@ -32,6 +32,15 @@
         }
     }
 }
+.color1 {
+    color: #F3F700 !important; //yellow
+}
+.color2 {
+    color: #F29202;
+}
+.color3 {
+    color: #32F202;
+}
 </style>
 
 <script>

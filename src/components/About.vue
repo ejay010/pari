@@ -4,15 +4,23 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h2 class="text-white mb-4">What is the P-ARI Foundation</h2>
-        <div class="text-center">
-          <img src="@/assets/img/PariLogo.webp" class="img-responsive" />
+        <h2 class="color1 mb-4 ">What is the P-ARI Foundation</h2>
+        <div class="text-center img-responsive">
+          <img src="@/assets/img/PariLogo.webp" />
         </div>
-        <p class="text-white-50">
-          P-ARI (PAN-AFRICAN RENAISSANCE INITIATIVE) Also Known As ARI (AFRICAN RENAISSANCE INITIATIVE) IS THE NAME OF AN AUTONOMOUS, PRIVATELY FUNDED, 1976 MULTINATIONAL EFFORT, FOUNDATION, ENTITY, ASSOCIATION AND PROGRAM. WITH A MISSION OF:
-          HELPING
-          BRING TO REALITY THE HERETOFORE ILLUSIONARY… “TOTAL” TRUTH-BASED & EQUITABLE: MENTAL, PSYCHOLOGICAL, SOCIAL, ECONOMIC AND POLITICAL EMANCIPATION OF MAMA AFRICA AND HER OVER 1.5 BILLION GLOBAL DESCENDANTS… IN A WAY THAT IS BEST FOR HER
-          PEOPLE AND THE WORLD !
+        <p class="text-white">
+          P-ARI <span class="color1">(</span>P<span class="color1">AN-</span>A<span class="color1">FRICAN</span> R<span class="color1">ENAISSANCE</span> I<span class="color1">NITIATIVE) Also known as</span>
+          ARI (A<span class="color1">FRICAN</span> R<span class="color1">ENAISSANCE</span> I<span class="color1">NITIATIVE</span>) <span class="color2">IS
+            THE NAME OF AN AUTONOMOUS, PRIVATELY FUNDED, 1976 MULTINATIONAL EFFORT, FOUNDATION, ENTITY, ASSOCIATION AND PROGRAM.</span> WITH A MISSION OF:
+          <span class="color2">HELPING
+            BRING TO REALITY THE HERETOFORE ILLUSIONARY… “</span><span class="color1">TOTAL</span><span class="color2" style=" margin-right: 5px;">"</span> <span class="color1">TRUTH-BASED & EQUITABLE:</span>
+          <span class="color2">MENTAL, PSYCHOLOGICAL, SOCIAL, ECONOMIC AND
+            POLITICAL</span>
+          <span class="color1" style="margin-left: 5px; margin-right: 5px;">EMANCIPATION</span>
+          <span class="color2">OF</span> <span class="color1">MAMA AFRICA</span> <span class="color2" style="margin-left: 5px; margin-right: 5px;">AND HER OVER 1.5 BILLION GLOBAL
+            DESCENDANTS… IN A WAY THAT IS</span> <span class="colo1">BEST</span> <span class="colo2" style="margin-left: 5px; margin-right: 5px;">FOR</span>
+          HER
+          PEOPLE <span class="color1">AND</span> THE WORLD !
         </p>
       </div>
     </div>
