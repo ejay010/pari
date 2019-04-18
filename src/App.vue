@@ -14,8 +14,9 @@
 
 <style lang="scss">
 @import '@/assets/scss/grayscale.scss';
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Playfair+Display+SC:900|Roboto:900');
 #app {
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     // text-align: center;
