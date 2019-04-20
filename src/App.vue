@@ -7,6 +7,7 @@
   <projects></projects>
   <signup></signup>
   <stepview></stepview>
+  <moresteps></moresteps>
   <contact></contact>
   <footerview></footerview>
 </div>
@@ -52,11 +53,13 @@ import projects from "@/components/Projects.vue";
 import signup from "@/components/Signup.vue";
 import contact from "@/components/contact.vue";
 import footerview from "@/components/footer.vue";
-import stepview from "@/components/steps.vue"
+import stepview from "@/components/steps.vue";
+import moresteps from "@/components/moresteps.vue";
 
 export default {
   name: "app",
   components: {
+    moresteps,
     navigation,
     headerview,
     about,

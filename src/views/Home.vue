@@ -6,6 +6,7 @@
   <signup></signup>
   <contact></contact>
   <stepview></stepview>
+  <moresteps></moresteps>
   <footerview></footerview>
 </span>
 </template>
@@ -19,10 +20,12 @@ import signup from "@/components/Signup.vue";
 import contact from "@/components/contact.vue";
 import footerview from "@/components/footer.vue";
 import stepview from "@/components/steps.vue";
+import moresteps from "@/components/moresteps.vue";
 
 export default {
   name: "home",
   components: {
+    moresteps,
     headerview,
     about,
     projects,

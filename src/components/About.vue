@@ -6,7 +6,7 @@
       <div class="col-lg-8 mx-auto">
         <h2 class="color1 mb-4 ">WHAT IS THE P-ARI FOUNDATION</h2>
         <div class="text-center img-responsive">
-          <img src="@/assets/img/PariLogo.webp" />
+          <img class="img-fluid" src="@/assets/img/PariLogo.webp" />
         </div>
         <p class="text-white">
           P-ARI <span class="color1">(</span>P<span class="color1">AN-</span>A<span class="color1">FRICAN</span> R<span class="color1">ENAISSANCE</span> I<span class="color1">NITIATIVE) Also known as</span>

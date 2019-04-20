@@ -6,17 +6,22 @@
       <div class="col-md-10 col-lg-8 mx-auto text-center">
 
         <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-        <h2 class="text-white mb-5">Our Belief</h2>
+        <h1 class="color2 mb-5">OUR BELIEF</h1>
 
         <div class="row">
 
           <div class="col-md-4 mb-3 mb-md-0">
-            <div class="card py-4 h-100">
+            <div class="card py-3 h-100">
               <div class="card-body text-center">
-                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">What is Best for the World</h4>
-                <hr class="my-4">
-                <div class="small text-black-50">Bad for Africa!</div>
+                <!-- <i class="fas fa-map-marked-alt text-primary mb-2"></i> -->
+                <h5 class="text-uppercase m-0">WHAT IS:</h5>
+                <h3 class="text-uppercase color3 m-0">Best for the World</h3>
+                <div class="my-2">
+                  <p>
+                    IS
+                  </p>
+                </div>
+                <h3 style="color: red;" class="text-uppercase">Bad for Africa!</h3>
               </div>
             </div>
           </div>
@@ -24,11 +29,16 @@
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
-                <i class="fas fa-envelope text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">What is Best for Africa</h4>
-                <hr class="my-4">
-                <div class="small text-black-50">
-                  <a href="#">Good for the World</a>
+                <!-- <i class="fas fa-envelope text-primary mb-2"></i> -->
+                <h5 class="text-uppercase m-0">WHAT IS:</h5>
+                <h3 class="text-uppercase color3 m-0">Best for Africa</h3>
+                <div class="my-0">
+                  <p>
+                    IS
+                  </p>
+                </div>
+                <div class="text-uppercase" style="color: blue;">
+                  <h3>Good for the World</h3>
                 </div>
               </div>
             </div>
@@ -38,12 +48,22 @@
             <div class="card py-4 h-100">
               <div class="card-body text-center">
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Do the Best for Africa</h4>
-                <hr class="my-4">
-                <div class="small text-black-50">Everybody Wins</div>
+                <h4 class="text-uppercase m-0 color3">Do the Best for Africa</h4>
+                <div class="my-3">
+                  <p>
+                    &
+                  </p>
+                </div>
+                <div class="text-uppercase color3 ">
+                  <h3>Everybody Wins</h3>
+                </div>
               </div>
             </div>
           </div>
+        </div>
+
+        <div class="row">
+          <h2 class="color2 m-5 mx-auto text-uppercase">Let me explain...</h2>
         </div>
 
       </div>
