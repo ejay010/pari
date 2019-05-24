@@ -5,43 +5,38 @@
 
     <div class="row">
 
-      <div class="col-md-4 mb-3 mb-md-0">
-        <div class="card py-4 h-100">
+      <div class="col-md-4 mb-3 mb-md-0 ">
+        <div class="card py-4 h-100 bg-black">
+          <div class="card-body text-center d-flex justify-content-center align-items-center">
+            <p class="headliner color3">
+              Do the best for Africa...
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-3 mb-md-0 ">
+        <div class="card py-4 h-100 bg-green">
           <div class="card-body text-center">
-            <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-            <h4 class="text-uppercase m-0">Address</h4>
-            <hr class="my-4">
-            <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+            <p class="headliner-alt">
+              By Joining & Working with P-ARI, Via the partnership/affiliate category or categories of your choice
+            </p>
           </div>
         </div>
       </div>
 
       <div class="col-md-4 mb-3 mb-md-0">
-        <div class="card py-4 h-100">
-          <div class="card-body text-center">
-            <i class="fas fa-envelope text-primary mb-2"></i>
-            <h4 class="text-uppercase m-0">Email</h4>
-            <hr class="my-4">
-            <div class="small text-black-50">
-              <a href="#">hello@yourdomain.com</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4 mb-3 mb-md-0">
-        <div class="card py-4 h-100">
-          <div class="card-body text-center">
-            <i class="fas fa-mobile-alt text-primary mb-2"></i>
-            <h4 class="text-uppercase m-0">Phone</h4>
-            <hr class="my-4">
-            <div class="small text-black-50">+1 (555) 902-8832</div>
+        <div class="card py-4 h-100 bg-black">
+          <div class="card-body text-center d-flex justify-content-center align-items-center">
+            <p class="headliner color3">
+              And everybody wins!
+            </p>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="social d-flex justify-content-center">
+    <!-- <div class="social d-flex justify-content-center">
       <a href="#" class="mx-2">
         <i class="fab fa-twitter"></i>
       </a>
@@ -51,8 +46,25 @@
       <a href="#" class="mx-2">
         <i class="fab fa-github"></i>
       </a>
-    </div>
+    </div> -->
 
   </div>
 </section>
 </template>
+
+<style lang="scss">
+.headliner {
+    font-size: 23pt;
+    text-transform: uppercase;
+}
+
+.headliner-alt {
+    color: white;
+    font-size: 23pt;
+    text-transform: uppercase;
+}
+
+.bg-green {
+    background-color: #25b700;
+}
+</style>
