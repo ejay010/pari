@@ -1,46 +1,44 @@
   <template>
 <!-- Contact Section -->
 <section id="stepstosov" class="contact-section bg-black">
-  <div class="container-fluid d-block d-sm-none">
-    <div class="row">
-
+  <div class="container-fluid">
+    <div class="row d-flex justify-content-center m-4 mb-5">
+      <h1 class="text-uppercase color3">Best for Africa...</h1>
     </div>
-  </div>
-  <div class="container-fluid d-none d-md-block">
-    <div class="row ">
-      <div class="card col m-2 speechbubble">
+    <div class="row d-flex justify-content-center">
+      <div class="card col-md-3 speechbubble">
         <div class="card-body">
           1. Learn & teach the TRUE History of our Past
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble">
+      <div class="card col-md-3 speechbubble">
         <div class="card-body">
           3. Eliminate ideologies & misconceptions that maintain manipulated division, hostilities & conflicts between us.
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble-alt">
+      <div class="card col-md-3 speechbubble-alt">
         <div class="card-body">
           5. Develop 1st Quality "In-Africa" training & finishing industries & markets for our native resources
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble-alt">
+      <div class="card col-md-3 speechbubble-alt">
         <div class="card-body">
           7. Equitably Enhance Global import, export, wholesale & retail trade inside & outside of Africa
         </div>
       </div>
     </div>
 
-    <div class="row mt-4 mb-4 pathrow">
-      <div class="card col-9 arrow-card">
+    <div class="row mt-4 mb-4 pathrow d-flex justify-content-around">
+      <div class="card arrow-card col-md-8">
         <div class="card-body text-white text-uppercase text-center my-auto">
           <h3>Self-Empowered steps to true continetal sovereignty</h3>
         </div>
       </div>
 
-      <div class="card offset-1 col-2">
+      <div class="card col-md-3">
         <div class="card-body text-uppercase text-center">
           <h5>socio-economic viability</h5>
         </div>
@@ -48,30 +46,33 @@
     </div>
 
     <div class="row">
-      <div class="card col m-2 speechbubble-top">
+      <div class="card col-md-3 speechbubble-top">
         <div class="card-body">
 2. Teach the Truth about:  method, purpose & cost of Colonial & Post-Colonial systems
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble-top">
+      <div class="card col-md-3 speechbubble-top">
         <div class="card-body">
           4. Identify & Associate Equitable Int’l Partners to help develop and co-own Pan-African industries
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble-top-alt">
+      <div class="card col-md-3 speechbubble-top-alt">
         <div class="card-body">
           6. Develop profitable products & services for continental &
 global consumption
         </div>
       </div>
 
-      <div class="card col m-2 speechbubble-top-alt">
+      <div class="card col-md-3 speechbubble-top-alt">
         <div class="card-body">
           8. Structure & Fund Sustainable Economic & Social Development resulting in billions of jobs &  increasing Foreign Exchange
         </div>
       </div>
+    </div>
+    <div class="row d-flex justify-content-center">
+      <h1 class="text-uppercase m-4 mt-5" style="color: #3C64C9;">IS GOOD FOR THE WORLD!</h1>
     </div>
   </div>
 </section>

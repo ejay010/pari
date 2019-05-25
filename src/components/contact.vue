@@ -65,6 +65,6 @@
 }
 
 .bg-green {
-    background-color: #25b700;
+    background-color: #25b700 !important;
 }
 </style>

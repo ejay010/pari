@@ -62,9 +62,6 @@
           </div>
         </div>
 
-        <div class="row">
-          <h2 class="color2 m-5 mx-auto text-uppercase">Let me explain...</h2>
-        </div>
 
       </div>
     </div>
