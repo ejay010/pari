@@ -3,7 +3,7 @@
 <section id="about" class="about-section text-center">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-10 mx-auto">
         <h2 class="color1 mb-4 ">WHAT IS THE P-ARI FOUNDATION</h2>
         <div class="text-center img-responsive">
           <img class="img-fluid" src="@/assets/img/PariLogo.webp" />
@@ -41,6 +41,6 @@
 }
 
 .maintext {
-  font-size: 18pt !important;
+  font-size: 21pt !important;
 }
 </style>

@@ -2,9 +2,11 @@
 <!-- Contact Section -->
 <section id="stepstosov" class="contact-section bg-black">
   <div class="container-fluid">
-
     <div class="row">
       <h1 class="color3 text-uppercase mx-auto">Best for the world...</h1>
+    </div>
+
+    <div class="row">
       <img class="img-fluid mx-auto" src="@/assets/img/barchart.webp" />
     </div>
 
