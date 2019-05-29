@@ -6,14 +6,15 @@
       <h1 class="color3 text-uppercase mx-auto">Best for the world...</h1>
     </div>
 
-    <div class="row">
-      <img class="img-fluid mx-auto" src="@/assets/img/barchart.webp" />
-    </div>
+    <!-- <div class="row d-flex justify-content-center">
+      <img class="img-fluid" src="@/assets/img/pari-chart2.png" />
+    </div> -->
 
     <div class="row d-flex justify-content-center no-gutters">
       <div class="col-md-2 mb-3 mb-md-0">
         <div class="card py-3 h-100 bg-black">
-          <div class="card-body text-center-justify">
+          <img class="card-img-top img-fluid block1" src="@/assets/img/bigger-block1.png"/>
+          <div class="card-body text-center">
             <div class="text-white">
               <p>
                 1. <span class="red">Denial</span> of Africa's <span class="color1">TRUE</span> history of the Wealth & Greatness of her past Civilizations & Kingdoms.
@@ -25,7 +26,8 @@
 
       <div class="col-md-2 mb-3 mb-md-0">
         <div class="card py-3 h-100 bg-black">
-          <div class="card-body text-center-justify">
+          <img class="card-img-top img-fluid block2" src="@/assets/img/bigger-block2.png"/>
+          <div class="card-body text-center">
             <div class="text-white">
               <p>
                 2. <span class="red">Maintain</span> the Brain-washed state of Western post-colonial adoration & worship as the "ideal" for Africa.
@@ -37,7 +39,8 @@
 
       <div class="col-md-2 mb-3 mb-md-0">
         <div class="card py-3 h-100 bg-black">
-          <div class="card-body text-wrap">
+          <img class="card-img-top img-fluid block3" src="@/assets/img/bigger-block3.png"/>
+          <div class="card-body text-center">
             <div class="text-white">
               3. <span class="red">Maintain</span> manipulated, & conditioned perspectives that sustain poor self-image, division & conflicts.
             </div>
@@ -47,7 +50,8 @@
 
       <div class="col-md-2 mb-3 mb-md-0">
         <div class="card py-3 h-100 bg-black">
-          <div class="card-body text-center-justify">
+          <img class="card-img-top img-fluid block4" src="@/assets/img/bigger-block4.png"/>
+          <div class="card-body text-center">
             <div class=" text-white">
               4. <span class="red">Maintain</span> Acquisition and external processing of unprocessed African resources & commodities without fair compenstation.</div>
           </div>
@@ -56,7 +60,8 @@
 
       <div class="col-md-2 mb-3 mb-md-0">
         <div class="card py-3 h-100 bg-black">
-          <div class="card-body text-center-justify">
+          <img class="card-img-top img-fluid block5" src="@/assets/img/bigger-block5.png"/>
+          <div class="card-body text-center">
             <div class=" text-white">
               5. <span class="red">Maintain</span> African economic & social dependency as a return consumption-market for processed commodities.
             </div>
@@ -87,5 +92,17 @@
 }
 .bg-black {
     background-color: dark;
+}
+.block4 {
+    margin-top: 26%;
+}
+.block3 {
+    margin-top: 47%;
+}
+.block2 {
+    margin-top: 64%;
+}
+.block1 {
+    margin-top: 76%;
 }
 </style>
