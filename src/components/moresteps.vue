@@ -5,7 +5,7 @@
     <div class="row d-flex justify-content-center m-4 mb-5">
       <h1 class="text-uppercase color3">Best for Africa...</h1>
     </div>
-    <div class="row d-flex justify-content-center">
+    <div class="row d-flex justify-content-center pb-3">
       <div class="card col-md-3 speechbubble">
         <div class="card-body">
           1. Learn & teach the TRUE History of our Past
@@ -45,7 +45,7 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row pt-3">
       <div class="card col-md-3 speechbubble-top">
         <div class="card-body">
 2. Teach the Truth about:  method, purpose & cost of Colonial & Post-Colonial systems
@@ -197,9 +197,10 @@ global consumption
   position: absolute;
   width: 0;
   height: 0;
-  border: 130px solid;
+  border: 100px solid;
   left: 97%;
-  bottom: -60%;
+  bottom: -40%;
+  z-index: 2;
   border-color: transparent transparent transparent #f5a914;
 }
 </style>
