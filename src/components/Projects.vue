@@ -147,7 +147,7 @@
                 <h4 class="color1">WHAT IS PAN-AFRICAN CONSUMERISM?</h4>
                 <p class="mb-0 text-white-50">
                   <span class="color2">
-                    THE CONDITIONED PAN-AFRICAN CONSUMPTION OF GOODS AND SERVICES; PRODUCED, DEVELOPED AND MARKETED BY <span style="color: red;">NON-PAN-AFRICANS</span>, WITH THE BELIEF THAT WESTERN AND AISIAN PROVIDED GOODS AND SERVICES ARE BETTER
+                    THE CONDITIONED PAN-AFRICAN CONSUMPTION OF GOODS AND SERVICES; PRODUCED, DEVELOPED AND MARKETED BY <span style="color: red;">NON-PAN-AFRICANS</span>, WITH THE BELIEF THAT WESTERN AND ASIAN PROVIDED GOODS AND SERVICES ARE BETTER
                     JUST BECAUSE OF NON-PAN-AFRICAN
                     PROCESSING, FINISHING AND/OR BRANDING.
                   </span>
@@ -181,7 +181,7 @@
 
                   <ol>
                     <li>
-                      Someone or something to believe in
+                      Someone or something to believe in.
                     </li>
                     <li>
                       Sustenance – (Food, Water & Shelter)
@@ -216,7 +216,7 @@
                     </li>
 
                     <li>
-                      Need for meaning, for purpose, for fulfillment in something
+                      Need for meaning, for purpose, for fulfillment in something.
                     </li>
                   </ol>
                 </p>
